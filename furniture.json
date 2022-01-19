@@ -1,0 +1,210 @@
+[
+        {
+                "name":"Archair",
+                "category":"chair",
+                "price": "50.25",
+                "imgSrc": "/img/chair.jpg"
+        },
+        {
+                "name":"Table",
+                "category":"table",
+                "price":"221.34",
+                "imgSrc":"img/table.jfif"
+        },
+        {
+                "name":"Teacher Table",
+                "category":"table",
+                "price":"232.11",
+                "imgSrc":"img/table2.webp"
+        },
+        {
+                "name":"Student Table",
+                "category":"table",
+                "price":"323.22",
+                "imgSrc":"img/table4.jpg"
+        },
+        {
+                "name":"Computer table",
+                "category":"table",
+                "price":"132.21",
+                "imgSrc":"img/stable.jpg"
+        },
+        {
+                "name":"Cushion",
+                "category":"cushion",
+                "price":"231",
+                "imgSrc":"img/cushion.jpg"
+        },
+        {
+                "name":"Cabinet",
+                "category":"Cabinet",
+                "price":"434",
+                "imgSrc":"img/cabinet.jfif"
+        },
+        {
+                "name":"Bed Bold",
+                "category":"bed",
+                "price":"234",
+                "imgSrc":"img/bed1.png"
+        },
+        {
+                "name":"Cabinet",
+                "category":"Cabinet",
+                "price":"123",
+                "imgSrc":"img/"
+        },
+        {
+                "name":"Cushion",
+                "category":"Cushion",
+                "price":"232",
+                "imgSrc":"img/cushion.jpg"
+        },
+        {
+                "name":"Desk",
+                "category":"desk",
+                "price":"233.33",
+                "imgSrc":"img/table.jifif"
+        },
+        {
+                "name":"Single Bed",
+                "category":"bed",
+                "price":"234",
+                "imgSrc":"img/bed1webp"
+        },
+        {
+                "name":"Double Bed",
+                "category":"bed",
+                "price":"133",
+                "imgSrc":"img/bed2.jpg"
+        },
+        {
+                "name":"office chair",
+                "category":"chair",
+                "price":"232.22",
+                "imgSrc":"img/chair3.jfif"
+        },
+        {
+                "name":"Drawer",
+                "category":"Drawer",
+                "price":"232.22",
+                "imgSrc":"img/drow.webp"
+        },
+        {
+                "name":"Sofa bed",
+                "category":"Sofa",
+                "price":"233.34",
+                "imgSrc":"img/sofa.jpg"
+        },
+        {
+                "name":"Wing chair",
+                "category":"chair",
+                "price":"100.34",
+                "imgSrc":"img/chair3.webp"
+        },
+        {
+                "name":"Wooden armchair",
+                "category":"chair",
+                "price":"198.34",
+                "imgSrc":"img/chair.jpg"
+        },
+        {
+                "name":"Wooden Table",
+                "category":"table",
+                "price":"342.23",
+                "imgSrc":"img/table.jfif"
+        },
+        {
+                "name":"Wooden dining table",
+                "category":"table",
+                "price":"122.50",
+                "imgSrc":"img/table2.webp"
+        },
+        {
+                "name":"Acoustic Guitar",
+                "imgSrc":"/img/guitar1.jpg",
+                "category": "guitar",
+                "price":"$45",
+                "desc":"The guitar is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A plectrum or individual finger picks may be used to strike the strings"
+        },
+        {
+                "imgSrc":"img/guitar1.jpg",
+                "name":"Electric Guitar",
+                "category": "guitar",
+                "price":"$75",
+                "desc":"The guitar is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A plectrum or individual finger picks may be used to strike the strings"
+        },
+        {
+                "imgSrc":"img/guitar.jpg",
+                "category": "guitar",
+                "name":"Clasic Guitar",
+                "price":"$85",
+                "desc":"The guitar is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A plectrum or individual finger picks may be used to strike the strings"
+        },
+        {
+                
+                "imgSrc":"img/laptop.jpg",
+                "category": "laptop",
+                "name":"Laptop-Hp",
+                "price":"$565",
+                "desc":"Key Features: Free upgrade to Windows 11* when available 11th Gen Intel Core i5-1135G7 Processor RAM: 8GB Internal storage: 512 GB"
+        },
+        {
+                
+                "imgSrc":"img/laptop1.jpg",
+                "category": "laptop",
+                "name":"Laptop Del",
+                "price":"$755",
+                "desc":"Key Features: Free upgrade to Windows 11* when available 11th Gen Intel Core i5-1135G7 Processor RAM: 8GB Internal storage: 512 GB"
+        },
+        {
+                "imgSrc":"img/laptop1.jpg",
+                "category": "laptop",
+                "name":"Laptop Apple",
+                "price":"$555",
+                "desc":"Key Features: Free upgrade to Windows 11* when available 11th Gen Intel Core i5-1135G7 Processor RAM: 8GB Internal storage: 512 GB"
+        },
+        {
+                "imgSrc":"img/laptop.jpg",
+                "category": "laptop",
+                "name":"Laptop LG",
+                "price":"$455",
+                "desc":"Key Features: Free upgrade to Windows 11* when available 11th Gen Intel Core i5-1135G7 Processor RAM: 8GB Internal storage: 512 GB"
+        },
+        {
+                "imgSrc":"img/phone.jpg",
+                "category": "phone",
+                "name":"Sumsang galaxy",
+                "price":"$355",
+                "desc":"A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area. The radio frequency link establishes a connection to the switching systems of a mobile phone operator, which provides access to the public switched telephone network (PSTN)."
+                
+        },
+        {
+                "imgSrc":"img/phone1.jpg",
+                "category": "phone",
+                "name":"Redme",
+                "price":"$125",
+                "desc":"A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area. The radio frequency link establishes a connection to the switching systems of a mobile phone operator, which provides access to the public switched telephone network (PSTN)."
+        },
+        {
+                "imgSrc": "img/tshirt.jpg",
+                "category": "tshirts",
+                "name":"T-shirt Black",
+                "price":"$85",
+                "desc":"Fabric : 100% soft cotton fleece. Keeps you warm. Delivery : Estimated delivery time is 2-7 days. Fits and Sizes : Relaxed fit designed for all body types. Wash Care : Machine wash with similar colours. Cold Water. Do not iron on print. Air dry."
+        },    
+        {
+                "imgSrc":"img/tshirt.jpg",
+                "category": "tshirts",
+                "name":"T-shirt Red",
+                "price":"$5",
+                "desc":"Fabric : 100% soft cotton fleece. Keeps you warm. Delivery : Estimated delivery time is 2-7 days. Fits and Sizes : Relaxed fit designed for all body types. Wash Care : Machine wash with similar colours. Cold Water. Do not iron on print. Air dry."
+        },   
+
+        {
+                "imgSrc":"img/tshirt1.jpg",
+                "category": "tshirts",
+                "name":"T-shirt Blue",
+                "price":"$5",
+                "desc":"Fabric : 100% soft cotton fleece. Keeps you warm. Delivery : Estimated delivery time is 2-7 days. Fits and Sizes : Relaxed fit designed for all body types. Wash Care : Machine wash with similar colours. Cold Water. Do not iron on print. Air dry."
+        }
+]
